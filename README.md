@@ -6,7 +6,10 @@ Create vCard QR code and logo  This tutorial allows you to create a QR code for 
 
 Using NuGet Package : 
 
--Bytescout.BarCode 7.6.2.1242
+-Bytescout.BarCode 7.6.2.1242				
+	
 -RCoder 1.4.3
--Thought.vCards 1.0.9
+	
+-Thought.vCards 1.0.9	
+	
 -ZXing.Net 0.16.9
